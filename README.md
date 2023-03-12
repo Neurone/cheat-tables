@@ -2,7 +2,7 @@
 Cheat Tables for Cheat Engine
 
 ## Shadow of the Tomb Raider
-Download here: [SOTTR.ct](./sottr/SOTTR.ct). The table works with the latest "SOTTR.exe" v1.0 build 489.0_64, Steam version.
+Download here: [SOTTR.ct](https://raw.githubusercontent.com/Neurone/cheat-tables/main/sottr/SOTTR.ct). The table works with the latest `SOTTR.exe v1.0 build 489.0_64`, Steam version.
 
 I added the teleport to this super cool cheat table created by [Cielos](https://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=177), posted on [fearlessrevolution.com](https://fearlessrevolution.com/viewtopic.php?p=281836#p281836). 
 
@@ -10,11 +10,11 @@ I added the teleport to this super cool cheat table created by [Cielos](https://
 You can teleport everywhere inside the same area. The same area means every place you can go without explicit loading, i.e., via a campfire, or hidden loading, i.e., entering a cave. You can change the assigned hotkeys inside Cheat Engine.
 
 Load the game, activate **Enable Teleport**, and now you can:
-  - Save your current position [SHIFT+G]
-  - Teleport to a previously saved position [SHIFT+E]
+  - Save your current position `SHIFT+G`
+  - Teleport to a previously saved position `SHIFT+E`
   - If you activate **Enable Bow Aim Teleport**, you can:
-    - Aim with the bow and save the aimed position [CTRL+G]. You can teleport to the saved position with [SHIFT+E]
-    - Aim with the bow and teleport [CTRL+H]. This option teleports you directly to the aimed location
+    - Aim with the bow and save the aimed position `CTRL+G`. You can teleport to the saved position with `SHIFT+E`
+    - Aim with the bow and teleport `CTRL+H`. This option teleports you directly to the aimed location
   - If you are curious about the position details, enable the **Info** section
 
 ![teleport-feature](./sottr/sottr.png)
